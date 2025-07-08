@@ -8,31 +8,32 @@ Based on Scotch.io's [Tutorial](https://scotch.io/tutorials/build-a-crud-web-app
 # Screenshots
 
 ### Home Page
-![Home Page](https://raw.githubusercontent.com/littlewonder/squadmaster/master/screenshots/homepage.png)
+![homepage](https://github.com/user-attachments/assets/0719bd6a-979f-4dfe-8e57-b18ee3772c82)
 
 ### Register Page
-![Register](https://raw.githubusercontent.com/littlewonder/squadmaster/master/screenshots/register.png)
+![register](https://github.com/user-attachments/assets/a690adc8-5d25-42b5-8555-8f23f6f17a96)
 
 ### Login Page
-![Login Page](https://raw.githubusercontent.com/littlewonder/squadmaster/master/screenshots/login.png)
+![login](https://github.com/user-attachments/assets/8111cd57-7985-4334-af20-5040ab0ddfd7)
 
 ### Employee Dashboard
-![Employee Dashboard](https://raw.githubusercontent.com/littlewonder/squadmaster/master/screenshots/employee-dashboard.png)
+![employee-dashboard](https://github.com/user-attachments/assets/71e6cf22-2157-484d-88ee-334a9f70bb91)
 
 ### Employee Profile
-![Employee Profile](https://raw.githubusercontent.com/littlewonder/squadmaster/master/screenshots/employee-profile.png)
+![employee-profile](https://github.com/user-attachments/assets/10f3fa0d-3146-4660-b001-925769f4d325)
 
 ### Admin Dashboard
-![Admin Dashboard](https://raw.githubusercontent.com/littlewonder/squadmaster/master/screenshots/admin-dashboard.png)
+![admin-dashboard](https://github.com/user-attachments/assets/b1ec3419-c4f9-4c53-93e3-ef24b20f96b0)
 
 ### Departments Page
-![Departments View](https://raw.githubusercontent.com/littlewonder/squadmaster/master/screenshots/departments-view.png)
+![departments-view](https://github.com/user-attachments/assets/65ab6de5-f422-422f-b949-26f15c19f0d9)
 
 ### Employees Page
-![Employees View](https://raw.githubusercontent.com/littlewonder/squadmaster/master/screenshots/employees-view.png)
+![employees-view](https://github.com/user-attachments/assets/2110d66e-efb8-40e7-8391-a36c796b8b63)
 
 ### Pay Grades Page
-![Pay Grades View](https://raw.githubusercontent.com/littlewonder/squadmaster/master/screenshots/paygrades-view.png)
+![paygrades-view](https://github.com/user-attachments/assets/6700f18d-15e2-49ef-9dbc-e5ad11c3c43b)
 
 ### Roles Page
-![Roles View](https://raw.githubusercontent.com/littlewonder/squadmaster/master/screenshots/roles-view.png)
+![roles-view](https://github.com/user-attachments/assets/5a5a558c-df15-49c8-be23-ee77401ea8fc)
+
